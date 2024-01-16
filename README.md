@@ -15,8 +15,10 @@ Step 4 - Finding patterns and trends from these visualizations
 ## Results
 Option 1 was chosen for this project.
 
+- Add screenshots for all visualizations in order to answer each question
+
 ## Challenges 
-(discuss challenges you faced in the project)
+The biggest challenge was understanding the dataset and trying to convert the JSON file onto Tableau, which we ended up using Python to extract the necessary data for the weekly earnings in order to use that file in Tableau.
 
 ## Future Goals
-(what would you do if you had more time?)
+If I had more time to work on this project, I would definitely work on building a more visually appealing dashboard to present and working on the visualizations to better present my findings more clearly.
