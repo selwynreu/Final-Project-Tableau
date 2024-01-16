@@ -5,8 +5,11 @@ The goal of this Data Visualization and Dashboards with Tableau project is to an
 
 ## Process
 Step 1 - Loading the data files into Tableau
+
 Step 2 - Sorting through the data to make sense out of it and understanding what to clean and update and ensuring that the units are consistent
+
 Step 3 - Creating the visualizations to answer all the questions
+
 Step 4 - Finding patterns and trends from these visualizations
  
 ## Results
