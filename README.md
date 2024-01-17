@@ -21,7 +21,18 @@ Housing Price Trend
 The housing price is increasing at a faster rate.
 
 
-- Add screenshots for all visualizations in order to answer each question
+Housing Price Comparison
+<img width="1051" alt="Housing Price Comparison" src="https://github.com/selwynreu/Final-Project-Tableau/assets/140371106/95bb51f9-6f0f-4ebb-a354-8b2e70209070">
+
+From 2017, the housing price index shows that the housing price was getting close to the benchmark.
+
+
+
+
+
+
+
+
 
 ## Challenges 
 The biggest challenge was understanding the dataset and trying to convert the JSON file onto Tableau, which we ended up using Python to extract the necessary data for the weekly earnings in order to use that file in Tableau.
