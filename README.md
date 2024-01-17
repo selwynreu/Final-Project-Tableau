@@ -15,6 +15,12 @@ Step 4 - Finding patterns and trends from these visualizations
 ## Results
 Option 1 was chosen for this project.
 
+Housing Price Trend
+<img width="1113" alt="Housing Price Trend" src="https://github.com/selwynreu/Final-Project-Tableau/assets/140371106/01b57171-7900-4c95-8ab7-3d005f877e04">
+
+The housing price is increasing at a faster rate.
+
+
 - Add screenshots for all visualizations in order to answer each question
 
 ## Challenges 
